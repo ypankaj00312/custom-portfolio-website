@@ -1,0 +1,24 @@
+/* .header{
+    
+} */
+
+.skill-name{
+    font-weight: bold;
+    margin-bottom: .5rem;
+    margin-top: 1.5rem;
+}
+
+.expertise{
+    border: 2px solid black;
+    width: 75vw;
+    margin: auto;
+    /* background-color: aqua; */
+}
+
+.expertise-level{
+    /* width:80%; */
+    background-color: #3628a1;
+    text-align: right;
+    color: #c8e22b;
+    height: 100%;
+}
